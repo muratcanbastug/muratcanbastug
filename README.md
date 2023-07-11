@@ -6,6 +6,14 @@
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muratcanbastug&theme=dark&card_width=450)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcanbastug&theme=dark&layout=donut&card_width=32)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muratcanbastug&theme=dark&card_width=450" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcanbastug&theme=dark&layout=donut" />
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muratcanbastug&theme=dark&card_width=450)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcanbastug&theme=dark&layout=donut&card_width=32)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muratcanbastug&icon=0&color=3)](https://visitcount.itsvg.in)
